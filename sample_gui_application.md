@@ -963,6 +963,7 @@ Remember to replace placeholders like `your-username`, `your-repository`, `your-
 Draw a simple logo for this project.
 
 ## ChatGPT 4
+![Logo](logo.png)
 Here is a simple logo designed for your YouTube video downloader and frame extractor application. This logo features a stylized play button symbol combined with a frame or picture icon, using a color palette of red, black, and white. It is modern, technology-oriented, and suitable for both digital and print media.
 
 ## User
