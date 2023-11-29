@@ -878,7 +878,7 @@ Write `README.md` for the above project.
 ## ChatGPT 4
 Certainly! Below is a template for a `README.md` file for your project. This README provides an overview of the project, instructions for setting it up, and additional relevant information.
 
-```markdown
+````markdown
 # YouTube Video Downloader and Frame Extractor
 
 This application is a YouTube video downloader that also extracts and displays the first frame of the downloaded video. It is built using Python, with a GUI created in Kivy and video downloading handled by pytube.
@@ -945,7 +945,7 @@ Your Name - [your-email@example.com](mailto:your-email@example.com)
 
 Project Link: [https://github.com/your-username/your-repository](https://github.com/your-username/your-repository)
 
-```
+````
 
 ### Notes:
 - **Project Description**: Provides a brief overview of what the application does.
