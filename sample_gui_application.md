@@ -970,7 +970,7 @@ Here is a simple logo designed for your YouTube video downloader and frame extra
 Resolve the following error:
 ```
 [DEBUG  ] download finished
-An error occurred: The directory 'D:\\workspaces.vscode.python\\sample_desktop_client\\path\\to\\save' does not exist
+An error occurred: The directory 'C:\\sample_desktop_client\\path\\to\\save' does not exist
 [INFO   ] [Base        ] Leaving application in progress...
  Traceback (most recent call last):
    File "C:\sample_desktop_client\main.py", line 29, in <module>
@@ -1077,10 +1077,4 @@ class MainWindow(BoxLayout):
 ```
 
 These changes should handle the directory creation issue and prevent setting `None` as the image source, thus resolving the errors you're encountering.
-
-## User
-Generate a title string for the above conversations. Use lowercase letters only and replace whitespaces with underscores.
-
-## ChatGPT 4
-There was an error generating a response
 
